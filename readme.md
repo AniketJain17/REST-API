@@ -21,7 +21,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-
+git clone https://github.com/AniketJain17/REST-API.git
 ```
 
 ### Install packages
