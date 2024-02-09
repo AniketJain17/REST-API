@@ -14,6 +14,13 @@ Features:
 - Postman testing
 - Create, Read, Update
 
+# Demo 
+![image](https://github.com/AniketJain17/REST-API/assets/63732758/d9a01bc5-52ef-4659-8eb4-1869e198ba2d)
+![image](https://github.com/AniketJain17/REST-API/assets/63732758/a484258d-e940-4ff5-905e-3253c1b36d83)
+![image](https://github.com/AniketJain17/REST-API/assets/63732758/fdcf8e58-289b-47a5-8b71-bc9619183a68)
+
+
+
 ### Prerequisites
 
 **Node version 14.x**
@@ -22,7 +29,7 @@ Features:
 
 ```shell
 git clone https://github.com/AniketJain17/REST-API.git
-```
+``` 
 
 ### Install packages
 
